@@ -15,7 +15,7 @@ distributions:
   dashing:
     frozen: false
   eloquent:
-    frozen: false
+    frozen: true
   foxy:
     frozen: false
   groovy:
