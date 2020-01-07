@@ -1,0 +1,20 @@
+%YAML 1.1
+---
+buildfarm:
+  ros:
+    frozen: false
+  ros2:
+    frozen: false
+distributions:
+  dashing:
+    frozen: false
+  eloquent:
+    frozen: false
+  kinetic:
+    frozen: false
+  melodic:
+    frozen: false
+  noetic:
+    frozen: false
+type: status
+version: 1
